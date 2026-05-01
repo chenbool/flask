@@ -55,3 +55,9 @@ tieba.login()
 - Python 3.6+
 - Selenium
 - ChromeDriver
+
+## 演示截图
+
+| 截图1 | 截图2 | 截图3 |
+|--------|--------|--------|
+| ![截图1](./screenshot/30024167.png) | ![截图2](./screenshot/81001985.png) | ![截图3](./screenshot/81001985@qq.com.png) |
